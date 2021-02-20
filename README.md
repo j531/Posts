@@ -1,6 +1,6 @@
 # Posts
 
-Past technical test project for displaying (fake) "posts", details and comments.
+Past technical test iOS project for displaying (fake) "posts", details and comments.
 - [MVVM-C](Posts/Modules/Posts/).
 - RxSwift.
 - Realm.
