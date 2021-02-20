@@ -1,6 +1,6 @@
 use_frameworks!
 
-platform :ios, '11'
+platform :ios, '12'
 
 target 'Posts' do
   pod 'Then'
