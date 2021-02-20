@@ -9,6 +9,6 @@ Past technical test iOS project for displaying (fake) "posts", details and comme
 
 ## Screenshots
 
-| Posts list | Post detail + comments |
+| Posts list | Post detail |
 | --- | --- |
 | ![Posts list](https://raw.githubusercontent.com/j531/Posts/main/images/list.png) | ![Posts detail](https://raw.githubusercontent.com/j531/Posts/main/images/detail.png) |
